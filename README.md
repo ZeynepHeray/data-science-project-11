@@ -24,6 +24,4 @@ sırasıyla kendi local veritabanınızda çalıştırınız.
 * connect_db fonksiyonu içerisinde veritabanına bağlanma bilgileri var. Projenizi kendi localinizde test ederken burada bilgileri kendi local veritabanı bilgilerinizle değiştirerek test ediniz. Ancak kodunuzu <b>pushlarken bu veritabanı bilgilerini ilk bulduğunuz şekilde bırakınız.</b> Çünkü kodlarınız Cloud bir ortamda bu bilgilerle bir veritabanına bağlancaklardır.
 
 # Questions
-* Senaryo:
-    Kaer Morhen’de staj yapan bir Witcher adayı olarak, avlanacak yaratıklar için çeşitli fonksiyonlar yazman gerekiyor. Bu fonksiyonlar sana görev planlamasında, ödeme hesaplamasında ve istatistik çıkarmada yardımcı olacak.
 * task_manager.py dosyasının içerisindeki fonksiyonların içerisini doldurmaya çalışın
